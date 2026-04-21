@@ -17,7 +17,7 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Data — commenta/rimuovi se vuoi includere i dati nel repo
+# Data 
 # data/raw/*.csv
 
 # Output temporanei
