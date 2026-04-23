@@ -1,6 +1,16 @@
-pandas>=2.0
-numpy>=1.24
-matplotlib>=3.7
-seaborn>=0.12
-jupyter>=1.0
-notebook>=7.0
+# Marketing Campaign Analysis — requirements
+# Python 3.12 required
+
+# Data manipulation
+pandas==3.0.2
+numpy==2.4.3
+
+# Visualization
+matplotlib==3.10.8
+seaborn==0.13.2
+
+# Machine learning (K-Means clustering, RobustScaler)
+scikit-learn==1.7.1
+
+# Notebook environment
+jupyter>=1.0.0
